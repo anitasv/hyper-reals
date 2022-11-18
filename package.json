@@ -1,0 +1,20 @@
+{
+  "name": "hyper-reals",
+  "version": "1.0.0",
+  "description": "Do symbolic calculus using hyper real numbers",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hyperreal",
+    "calculus",
+    "math"
+  ],
+  "author": "Anita S V",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
